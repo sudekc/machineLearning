@@ -1,5 +1,5 @@
 # machineLearning
-You can find my recent projects for IBM Machine Learning Professional Certificate
+You can find my recent projects for IBM Machine Learning Professional Certificate ![coursera](https://www.coursera.org/professional-certificates/ibm-machine-learning?=)
 
 ## bigmart-sales-data-eda.ipynb is the final project for the course "Exploratory Data Analysis for Machine Learning"
 
