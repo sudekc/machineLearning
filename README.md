@@ -1,5 +1,5 @@
 # machineLearning
-You can find my recent projects for [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning?=)
+You can find my recent projects for the courses in [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning?=) here.
 
 ## [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/PD3LRSU43QLY)
 
