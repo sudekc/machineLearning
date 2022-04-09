@@ -16,6 +16,6 @@ You can find my recent projects for the courses in [IBM Machine Learning Profess
 
 #
 
-I always share the resources for the datasets I use, I do not prefer to upload them to this repository as I do not know about their consent rights.
+I always share the resources for the datasets I use, I do not prefer to upload them to this repository as I do not know their consent rights.
 
 Please share your comments and suggestions with me, I am new around! Thank you.
