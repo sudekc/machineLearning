@@ -7,12 +7,14 @@ You can find my recent projects for the courses in [IBM Machine Learning Profess
 
 ## [Supervised Machine Learning: Regression](https://www.coursera.org/account/accomplishments/certificate/EKSL4HAT7MRN)
 
-[Regression Models for the Seoul Bike Sharing Dataset: ](https://github.com/sudekc/machineLearning/blob/035a398c1449e706c44a1fca0c0a8bf76a6c9d33/seoul-bike-data-regression.ipynb) Alongside EDA and feature engineering, I built linear, polynomial, Ridge and random forest regression models and compared model performances with K-fold cross validation for the bike sharing data. I used GridSearch to tune the hyperparameters for Ridge regression.
+[Regression Models for the Seoul Bike Sharing Dataset: ](https://github.com/sudekc/machineLearning/blob/035a398c1449e706c44a1fca0c0a8bf76a6c9d33/seoul-bike-data-regression.ipynb) Alongside EDA and feature engineering, I built linear, polynomial, Ridge, and random forest regression models and compared model performances with K-fold cross-validation for the bike-sharing data. I used GridSearch to tune the hyperparameters for Ridge regression.
 
 ## [Supervised Machine Learning: Classification](https://www.coursera.org/account/accomplishments/certificate/EVGTLZXLW5N2)
 
-[Classification Models for the Obesity Dataset: ](https://github.com/sudekc/machineLearning/blob/035a398c1449e706c44a1fca0c0a8bf76a6c9d33/obesity-data-classification.ipynb) Alongside EDA and feature engineering, I built logistic regression, decision tree, random forest and Adaboost classification models and compared model performances with using stratified-shuffle-split and GridSearch cross validation. I also showed the feature importances with the proposed final model.
+[Classification Models for the Obesity Dataset: ](https://github.com/sudekc/machineLearning/blob/035a398c1449e706c44a1fca0c0a8bf76a6c9d33/obesity-data-classification.ipynb) Alongside EDA and feature engineering, I built logistic regression, decision tree, random forest, and Adaboost classification models and compared model performances using stratified-shuffle-split and GridSearch cross-validation. I also showed the feature importances with the proposed final model.
 
+## [https://www.coursera.org/account/accomplishments/certificate/BJ9E3VUSS63D](https://www.coursera.org/account/accomplishments/certificate/BJ9E3VUSS63D)
+[Clustering Models for the Travel Review Ratings Dataset: ](https://github.com/sudekc/machineLearning/blob/27ac027a19b7d2275adb1673ca7bf53fd402b8e1/travel-review-clustering.ipynb) I used PCA for dimensionality reduction. I built K-means, agglomerative ward, and spectral clustering models to cluster unlabeled data. I assumed the number of clusters is known (with the help of K-means), and I compared the models by evaluating their Calinski-Harabasz indexes to come up with a recommendation. 
 
 #
 
