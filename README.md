@@ -12,3 +12,9 @@ You can find my recent projects for the courses in [IBM Machine Learning Profess
 ## [Supervised Machine Learning: Classification](https://www.coursera.org/account/accomplishments/certificate/EVGTLZXLW5N2)
 
 [Classification Models for the Obesity Dataset: ](https://github.com/sudekc/machineLearning/blob/035a398c1449e706c44a1fca0c0a8bf76a6c9d33/obesity-data-classification.ipynb) Alongside EDA and feature engineering, I built logistic regression, decision tree, random forest and Adaboost classification models and compared model performances with using stratified-shuffle-split and GridSearch cross validation. I also showed the feature importances with the proposed final model.
+
+
+
+I always share the resources for the datasets I use, I do not prefer to upload them to this repository as I do not know about their consent rights.
+
+Please share your comments and suggestions with me, I am new around! Thank you.
