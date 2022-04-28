@@ -16,7 +16,7 @@ You can find my recent projects for the courses in [IBM Machine Learning Profess
 ## [Unsupervised Machine Learning](https://www.coursera.org/account/accomplishments/certificate/BJ9E3VUSS63D)
 [Clustering Models for the Travel Review Ratings Dataset: ](https://github.com/sudekc/machineLearning/blob/27ac027a19b7d2275adb1673ca7bf53fd402b8e1/travel-review-clustering.ipynb) I used PCA for dimensionality reduction. I built K-means, agglomerative ward, and spectral clustering models to cluster unlabeled data. I assumed the number of clusters is known (with the help of K-means), and I compared the models by evaluating their Calinski-Harabasz indexes to come up with a recommendation. 
 
-## Deep Learning and Reinforcement Learning
+## [Deep Learning and Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/KL5MWZ6TMSJR)
 [Deep Learning Models for the Wine Quality Dataset: ](https://github.com/sudekc/machineLearning/blob/be917f925efc5ba446ed25d99d7aaf242287cc65/wine-quality-deep-learning.ipynb) I built basic neural networks with Keras for regression and classification. I compared the deep learning models with sklearn's default random forest regressor and classifier.
 
 #
